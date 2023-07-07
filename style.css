@@ -1,0 +1,7 @@
+body {
+  background-color: #ffffff; /* Normal background color */
+} 
+ 
+.clicked {
+  background-color: #56528e; /* Color when clicked */
+} 
